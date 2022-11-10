@@ -8,4 +8,4 @@ Nommer deux points forts de votre présentation.
 Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+Ma présentation préférée était celle de Guillaume, car ses choix de musique et de police étaient drôles, mais en plus ce qu'il a montré sont des notions que je ne connaissais pas. 
