@@ -1,10 +1,4 @@
 # Cours 8
 ## Retour sur la sortie
-
-### Oeuvre préférée
-Nommez l'oeuvre que vous avez préférée lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
-
-
-### Oeuvre la moins appréciée
-Nommez l'oeuvre que vous avez le moins aimé lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
+Malheureusement je dois admettre que je ne suis pas allée à cette sortie, malgré le fait que ça avait l'air intéressant et que le sujet de l'impact environnemental m'interpelle particulièrement. 
 
