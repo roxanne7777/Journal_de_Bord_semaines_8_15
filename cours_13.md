@@ -1,4 +1,3 @@
 # Cours 13
 ## Création de scénarimage
-file:///C:/Users/roxan/OneDrive/Bureau/storyboard%20-%20laser%202022-12-07%2010.15.12.pdf
-
+![storyboard](https://user-images.githubusercontent.com/112108013/206364691-a10c9b49-e5e4-49ac-b1b1-a80a77cdacbc.png)
