@@ -12,7 +12,7 @@ Le labyrinthe présentera un scénario futuriste et permettra aux utilisateurs d
 En entrant dans le labyrinthe, l'utilisateur aura le choix entre deux directions. Dépendamment de celle qu'il choisira, il verra l'histoire sous un angle différent. un chemin lui fera passer par un tunnel en rotation, l'autre par un passage aux projections interactives. Il croisera l'un ou l'autre des personnages hologrammes qui pourra influencer la direction qu'il suivra ensuite. il pourra également participer à l'un ou l'autre des jeux interactifs pour gagner un indice sur l'emplacement de la sortie, et il aura l'option de collectionner des artefacts pour avoir accès à certains détails de l'histoire de façon plus approfondie.
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![mood-labyrinthe](https://user-images.githubusercontent.com/112108013/206373582-24defc40-003b-4f94-8f3f-0ba7e32c8348.png)
 
 ### Tâches
 Écrire le scénario, le mettre en scène, filmer les scénettes, montage sonore, programmer les jeux de lumières et les interactions dans les mini jeux, animer les projections et les hologrammes, construire la structure, installer les équipements.
