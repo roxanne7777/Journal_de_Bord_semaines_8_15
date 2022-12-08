@@ -1,4 +1,4 @@
 # Cours 8
 ## Retour sur la sortie
-Malheureusement je dois admettre que je ne suis pas allée à cette sortie, malgré le fait que ça avait l'air intéressant et que le sujet de l'impact environnemental m'interpelle particulièrement. 
+Malheureusement je dois admettre que je ne suis pas allée à cette sortie, malgré le fait que ça avait l'air intéressant et que le sujet de l'impact environnemental m'interpelle particulièrement. Après avoir analysé toutes les options de transport et d'horaire possibles pour moi, chacune d'entre elles me créait de l'anxiété anticipée. Le trafic, le temps de trajet incertain à cette heure, le stationnement à Montréal, le chemin entre la station de métro et l'exposition si un retard me faisait manquer le groupe, tout m'angoissait. J'ai donc pris une décision pour ma santé mentale en n'allant pas à la sortie. Ayant expérimenté des crises d'anxiété et d'autres manifestations moins intenses mais tout aussi invalidantes, je ne voulais pas risquer d'en provoquer.
 
